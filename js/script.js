@@ -36,6 +36,5 @@ links.forEach((a) => {
     }
 })
 
-
-
-    
+// AOS  ===> Animate On Scroll Library
+  AOS.init();
